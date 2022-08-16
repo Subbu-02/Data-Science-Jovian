@@ -1,1 +1,2 @@
-Notebooks of my course on Data Science from Jovian
+### Notebooks of my course on Data Science from Jovian.
+Putting in here all my stuff that I do in the course. Lecture notebooks, assignments and more...
